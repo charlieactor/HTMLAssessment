@@ -13,6 +13,7 @@ h5 {
   text-align: right;
   margin-right: 350px;
   margin-top: -340px;
+  clear: both;
 
 }
 p {
@@ -90,4 +91,5 @@ blockquote{
 form {
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   float: right;
+  clear: both;
 }
